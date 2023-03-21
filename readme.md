@@ -23,3 +23,5 @@ The default page is **index.html** which is in the root directory. The **common*
 ## Contributors
 
 Suyog Kadariya
+Roshan Gautam
+Babish Karki
