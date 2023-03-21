@@ -1,6 +1,6 @@
 # Aamako Achar Website
 
-This repository contains the code for the Aamako Achar Website
+This repository contains the code for the Aamako Achar Website.
 
 ## Installation
 
