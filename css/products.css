@@ -211,8 +211,8 @@ footer {
 	nav ul li {
 		margin: 10px 0;
 	}
-
-	.nav-toggle-label {
+}
+	/* .nav-toggle-label {
 		position: absolute;
 		top: 20px;
 		right: 20px;
@@ -236,5 +236,5 @@ footer {
 	.nav-toggle:checked ~ ul {
 		display: flex;
 	}
-}
+} */
 
